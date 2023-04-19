@@ -1,0 +1,27 @@
+.cards{
+    margin-top: 70%;
+}
+
+.servs{
+    position: absolute;
+    top: 0;
+}
+
+.filters{
+    display: flex;
+}
+
+.create{
+    background-color: black;
+}
+
+.createDiv{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 3%;
+    padding: 5px 20px;
+    background-color: rgb(228, 237, 100);
+    border-radius: 10px;
+    cursor: pointer;
+}

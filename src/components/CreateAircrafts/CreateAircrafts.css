@@ -1,0 +1,33 @@
+.divCreate{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title2{
+    margin-top: -5%;
+    text-align: center;
+font-family: Comic Sans MS; 
+font-weight:bold; 
+font-size: 20px; 
+color: #EBD758; 
+text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68;
+}
+
+.title3{
+    position: absolute;
+    margin-top: -80%;
+    text-align: center;
+font-family: Comic Sans MS; 
+font-weight:bold; 
+font-size: 20px; 
+color: #EBD758; 
+text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68;
+}
+
+.error{
+    padding-top: 2%;
+    font-size: 20px;
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

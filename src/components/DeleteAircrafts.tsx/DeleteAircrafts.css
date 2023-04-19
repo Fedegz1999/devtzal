@@ -1,0 +1,19 @@
+.buttonDelete{
+    width: max-content; 
+    height: max-content;
+    padding:5px 10px;
+    outline: none;
+    display: flex;
+    border-radius: 20px;
+
+    background-color: rgb(102, 12, 0);
+    color: white;
+    cursor: pointer;
+}
+
+.buttonDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -2rem;
+}
