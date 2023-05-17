@@ -44,7 +44,7 @@ export default function SearchAircrafts ({}) {
 
     return (
         <>
-        <h1 className="title">DEVTZAL</h1>
+        <h1 className="title">Aircrafts App</h1>
         <input
           className="inputSearch"
           value={busqueda}
